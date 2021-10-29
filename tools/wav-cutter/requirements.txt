@@ -1,0 +1,5 @@
+ipython
+numpy
+matplotlib
+SoundFile
+pydub
