@@ -1,0 +1,466 @@
+[
+    {
+        "frequency": 0.063,
+        "letter": "า",
+        "type": "long vowel",
+        "class": "vowel",
+        "transcriptions": {
+            "latin": "a:",
+            "cyrillic": "а:"
+        },
+        "keyboard_locations": {
+            "kedmanee": "k"
+        }
+    },
+    {
+        "frequency": 0.0565,
+        "letter": "น",
+        "name": "หนู",
+        "type": "sonorant",
+        "class": "low",
+        "keyboard_locations": {
+            "kedmanee": "o"
+        },
+        "transcriptions": {
+            "latin": "n",
+            "cyrillic": "н"
+        }
+    },
+    {
+        "frequency": 0.0517,
+        "letter": "ร",
+        "name": "เรือ",
+        "type": "sonorant",
+        "class": "low",
+        "keyboard_locations": {
+            "kedmanee": "i"
+        },
+        "transcriptions": {
+            "latin": "r",
+            "cyrillic": "р"
+        }
+    },
+    {
+        "frequency": 0.0402,
+        "letter": "อ",
+        "name": "อ่าง",
+        "type": "unaspirated",
+        "class": "mid",
+        "keyboard_locations": {
+            "kedmanee": "v"
+        },
+        "transcriptions": {
+            "latin": "o:",
+            "cyrillic": "о:"
+        }
+    },
+    {
+        "frequency": 0.0394,
+        "letter": "ก",
+        "name": "ไก่",
+        "type": "unaspirated",
+        "class": "mid",
+        "keyboard_locations": {
+            "kedmanee": "d"
+        },
+        "transcriptions": {
+            "latin": "g",
+            "cyrillic": "к"
+        }
+    },
+    {
+        "frequency": 0.038,
+        "letter": "เ",
+        "type": "long vowel",
+        "class": "vowel",
+        "keyboard_locations": {
+            "kedmanee": "g"
+        },
+        "transcriptions": {
+            "latin": "e",
+            "cyrillic": "е"
+        }
+    },
+    {
+        "frequency": 0.0372,
+        "letter": "ง",
+        "name": "งู",
+        "type": "sonorant",
+        "class": "low",
+        "keyboard_locations": {
+            "kedmanee": "'"
+        },
+        "transcriptions": {
+            "latin": "ng",
+            "cyrillic": "нг"
+        }
+    },
+    {
+        "frequency": 0.0371,
+        "letter": "่",
+        "type": "tone mark",
+        "class": "diacritic",
+        "keyboard_locations": {
+            "kedmanee": "j"
+        }
+    },
+    {
+        "frequency": 0.032,
+        "letter": "ม",
+        "name": "ม้า",
+        "type": "sonorant",
+        "class": "low",
+        "keyboard_locations": {
+            "kedmanee": ","
+        },
+        "transcriptions": {
+            "latin": "m",
+            "cyrillic": "м"
+        }
+    },
+    {
+        "frequency": 0.0319,
+        "letter": "ั",
+        "type": "short vowel",
+        "class": "vowel",
+        "keyboard_locations": {
+            "kedmanee": "y"
+        },
+        "transcriptions": {
+            "latin": "a",
+            "cyrillic": "а"
+        }
+    },
+    {
+        "frequency": 0.0277,
+        "letter": "้"
+    },
+    {
+        "frequency": 0.0271,
+        "letter": "ี"
+    },
+    {
+        "frequency": 0.0259,
+        "letter": "ย",
+        "name": "ยักษ์",
+        "type": "sonorant",
+        "class": "low",
+        "keyboard_locations": {
+            "kedmanee": "p"
+        },
+        "transcriptions": {
+            "latin": "y",
+            "cyrillic": "й"
+        }
+    },
+    {
+        "frequency": 0.025,
+        "letter": "ล",
+        "name": "ลิง",
+        "type": "sonorant",
+        "class": "low",
+        "keyboard_locations": {
+            "kedmanee": "]"
+        },
+        "transcriptions": {
+            "latin": "l",
+            "cyrillic": "л"
+        }
+    },
+    {
+        "frequency": 0.024,
+        "letter": "ว",
+        "name": "แหวน",
+        "type": "sonorant",
+        "class": "low",
+        "keyboard_locations": {
+            "kedmanee": ";"
+        },
+        "transcriptions": {
+            "latin": "w",
+            "cyrillic": "в"
+        }
+    },
+    {
+        "frequency": 0.0227,
+        "letter": "ด",
+        "name": "เด็ก",
+        "type": "unaspirated",
+        "class": "mid",
+        "transcriptions": {
+            "latin": "d",
+            "cyrillic": "д"
+        }
+    },
+    {
+        "frequency": 0.0219,
+        "letter": "ท",
+        "name": "ทหาร",
+        "type": "aspirated",
+        "class": "low",
+        "transcriptions": {
+            "latin": "th",
+            "cyrillic": "тх"
+        }
+    },
+    {
+        "frequency": 0.0208,
+        "letter": "ิ"
+    },
+    {
+        "frequency": 0.0199,
+        "letter": "ส",
+        "name": "เสือ",
+        "type": "unvoiced",
+        "class": "high",
+        "transcriptions": {
+            "latin": "s",
+            "cyrillic": "с"
+        }
+    },
+    {
+        "frequency": 0.0191,
+        "letter": "ต",
+        "name": "เต่า",
+        "type": "unaspirated",
+        "class": "mid",
+        "transcriptions": {
+            "latin": "t",
+            "cyrillic": "т"
+        }
+    },
+    {
+        "frequency": 0.0182,
+        "letter": "ะ"
+    },
+    {
+        "frequency": 0.0179,
+        "letter": "ป",
+        "name": "ปลา",
+        "type": "unaspirated unvoiced",
+        "class": "mid",
+        "transcriptions": {
+            "latin": "p",
+            "cyrillic": "п"
+        }
+    },
+    {
+        "frequency": 0.0167,
+        "letter": "บ",
+        "name": "ใบไม้",
+        "type": "unaspirated voiced",
+        "class": "mid",
+        "transcriptions": {
+            "latin": "b",
+            "cyrillic": "б"
+        }
+    },
+    {
+        "frequency": 0.0156,
+        "letter": "ค",
+        "name": "ควาย",
+        "type": "aspirated",
+        "class": "low",
+        "transcriptions": {
+            "latin": "kh",
+            "cyrillic": "кх"
+        }
+    },
+    {
+        "frequency": 0.0154,
+        "letter": "ห",
+        "name": "หีบ",
+        "type": "aspirated",
+        "class": "high",
+        "transcriptions": {
+            "latin": "h",
+            "cyrillic": "х"
+        }
+    },
+    {
+        "frequency": 0.0148,
+        "letter": "แ"
+    },
+    {
+        "frequency": 0.0135,
+        "letter": "จ",
+        "name": "จาน",
+        "type": "unaspirated",
+        "class": "mid",
+        "transcriptions": {
+            "latin": "ch",
+            "cyrillic": "ть"
+        }
+    },
+    {
+        "frequency": 0.0132,
+        "letter": "พ",
+        "name": "พาน"
+    },
+    {
+        "frequency": 0.0109,
+        "letter": "ช",
+        "name": "ช้าง"
+    },
+    {
+        "frequency": 0.0107,
+        "letter": "์"
+    },
+    {
+        "frequency": 0.0106,
+        "letter": "ข",
+        "name": "ไข่"
+    },
+    {
+        "frequency": 0.0105,
+        "letter": "ใ"
+    },
+    {
+        "frequency": 0.00961,
+        "letter": "ื"
+    },
+    {
+        "frequency": 0.00913,
+        "letter": "ไ"
+    },
+    {
+        "frequency": 0.00897,
+        "letter": "ุ"
+    },
+    {
+        "frequency": 0.00875,
+        "letter": "็"
+    },
+    {
+        "frequency": 0.00781,
+        "letter": "ู"
+    },
+    {
+        "frequency": 0.00776,
+        "letter": "โ"
+    },
+    {
+        "frequency": 0.00697,
+        "letter": "ศ",
+        "name": "ศาลา"
+    },
+    {
+        "frequency": 0.00642,
+        "letter": "ำ"
+    },
+    {
+        "frequency": 0.00528,
+        "letter": "ึ"
+    },
+    {
+        "frequency": 0.00442,
+        "letter": "ซ",
+        "name": "โซ่"
+    },
+    {
+        "frequency": 0.00402,
+        "letter": "ถ",
+        "name": "ถุง"
+    },
+    {
+        "frequency": 0.00349,
+        "letter": "ธ",
+        "name": "ธง"
+    },
+    {
+        "frequency": 0.00335,
+        "letter": "ษ",
+        "name": "ฤๅษี"
+    },
+    {
+        "frequency": 0.00329,
+        "letter": "ภ",
+        "name": "สำเภา"
+    },
+    {
+        "frequency": 0.00324,
+        "letter": "ณ",
+        "name": "เณร"
+    },
+    {
+        "frequency": 0.00301,
+        "letter": "ผ",
+        "name": "ผึ้ง"
+    },
+    {
+        "frequency": 0.00253,
+        "letter": "ญ",
+        "name": "หญิง"
+    },
+    {
+        "frequency": 0.00191,
+        "letter": "ฟ",
+        "name": "ฟัน"
+    },
+    {
+        "frequency": 0.00128,
+        "letter": "ฐ",
+        "name": "ฐาน"
+    },
+    {
+        "frequency": 0.000855,
+        "letter": "ฮ",
+        "name": "นกฮูก"
+    },
+    {
+        "frequency": 0.000787,
+        "letter": "ๆ"
+    },
+    {
+        "frequency": 0.00075,
+        "letter": "ฤ"
+    },
+    {
+        "frequency": 0.000742,
+        "letter": "ฉ",
+        "name": "ฉิ่ง"
+    },
+    {
+        "frequency": 0.000685,
+        "letter": "ฝ",
+        "name": "ฝา"
+    },
+    {
+        "frequency": 0.000438,
+        "letter": "ฏ",
+        "name": "ปฏัก"
+    },
+    {
+        "frequency": 0.000376,
+        "letter": "ฎ",
+        "name": "ชฎา"
+    },
+    {
+        "frequency": 0.00034,
+        "letter": "ฒ",
+        "name": "ผู้เฒ่า"
+    },
+    {
+        "frequency": 0.000223,
+        "letter": "๊"
+    },
+    {
+        "frequency": 0.000217,
+        "letter": "ฬ",
+        "name": "จุฬา"
+    },
+    {
+        "frequency": 0.000212,
+        "letter": "ฑ",
+        "name": "มณโฑ"
+    },
+    {
+        "frequency": 0.000196,
+        "letter": "ฯ"
+    },
+    {
+        "frequency": 0.000169,
+        "letter": "ฆ",
+        "name": "ระฆัง"
+    }
+]
