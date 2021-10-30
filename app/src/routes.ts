@@ -1,4 +1,4 @@
 export default  [
     { path: '/', component: () => import('./pages/index.vue') },
-    { path: '/character-list', component: () => import('./pages/character-list.vue') },
+    { path: '/abugida', component: () => import('./pages/abugida.vue') },
 ]

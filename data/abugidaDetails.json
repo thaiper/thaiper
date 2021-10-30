@@ -2,7 +2,7 @@
     "ก": {
         "abugidaPosition": 1,
         "frequency": 0.0394,
-        "letter": "ก",
+        "character": "ก",
         "name": "ไก่",
         "type": "unaspirated",
         "class": "mid",
@@ -17,7 +17,7 @@
     "ข": {
         "abugidaPosition": 2,
         "frequency": 0.0106,
-        "letter": "ข",
+        "character": "ข",
         "name": "ไข่"
     },
     "ฃ": {
@@ -26,9 +26,15 @@
     },
     "ค": {
         "abugidaPosition": 4,
-        "frequency": 0.0106,
-        "letter": "ข",
-        "name": "ไข่"
+        "frequency": 0.0156,
+        "character": "ค",
+        "name": "ควาย",
+        "type": "aspirated",
+        "class": "low",
+        "transcriptions": {
+            "latin": "kh",
+            "cyrillic": "кх"
+        }
     },
     "ฅ": {
         "abugidaPosition": 5,
@@ -37,13 +43,13 @@
     "ฆ": {
         "abugidaPosition": 6,
         "frequency": 0.000169,
-        "letter": "ฆ",
+        "character": "ฆ",
         "name": "ระฆัง"
     },
     "ง": {
         "abugidaPosition": 7,
         "frequency": 0.0372,
-        "letter": "ง",
+        "character": "ง",
         "name": "งู",
         "type": "sonorant",
         "class": "low",
@@ -58,7 +64,7 @@
     "จ": {
         "abugidaPosition": 8,
         "frequency": 0.0135,
-        "letter": "จ",
+        "character": "จ",
         "name": "จาน",
         "type": "unaspirated",
         "class": "mid",
@@ -70,68 +76,68 @@
     "ฉ": {
         "abugidaPosition": 9,
         "frequency": 0.000742,
-        "letter": "ฉ",
+        "character": "ฉ",
         "name": "ฉิ่ง"
     },
     "ช": {
         "abugidaPosition": 10,
         "frequency": 0.0109,
-        "letter": "ช",
+        "character": "ช",
         "name": "ช้าง"
     },
     "ซ": {
         "abugidaPosition": 11,
         "frequency": 0.00442,
-        "letter": "ซ",
+        "character": "ซ",
         "name": "โซ่"
     },
     "ฌ": { "abugidaPosition": 12 },
     "ญ": {
         "abugidaPosition": 13,
         "frequency": 0.00253,
-        "letter": "ญ",
+        "character": "ญ",
         "name": "หญิง"
     },
     "ฎ": {
         "abugidaPosition": 14,
         "frequency": 0.000376,
-        "letter": "ฎ",
+        "character": "ฎ",
         "name": "ชฎา"
     },
     "ฏ": {
         "abugidaPosition": 15,
         "frequency": 0.000438,
-        "letter": "ฏ",
+        "character": "ฏ",
         "name": "ปฏัก"
     },
     "ฐ": {
         "abugidaPosition": 16,
         "frequency": 0.00128,
-        "letter": "ฐ",
+        "character": "ฐ",
         "name": "ฐาน"
     },
     "ฑ": {
         "abugidaPosition": 17,
         "frequency": 0.000212,
-        "letter": "ฑ",
+        "character": "ฑ",
         "name": "มณโฑ"
     },
     "ฒ": {
         "abugidaPosition": 18,
         "frequency": 0.00034,
-        "letter": "ฒ",
+        "character": "ฒ",
         "name": "ผู้เฒ่า"
     },
     "ณ": {
         "abugidaPosition": 19,
         "frequency": 0.00324,
-        "letter": "ณ",
+        "character": "ณ",
         "name": "เณร"
     },
     "ด": {
         "abugidaPosition": 20,
         "frequency": 0.0227,
-        "letter": "ด",
+        "character": "ด",
         "name": "เด็ก",
         "type": "unaspirated",
         "class": "mid",
@@ -143,7 +149,7 @@
     "ต": {
         "abugidaPosition": 21,
         "frequency": 0.0191,
-        "letter": "ต",
+        "character": "ต",
         "name": "เต่า",
         "type": "unaspirated",
         "class": "mid",
@@ -155,13 +161,13 @@
     "ถ": {
         "abugidaPosition": 22,
         "frequency": 0.00402,
-        "letter": "ถ",
+        "character": "ถ",
         "name": "ถุง"
     },
     "ท": {
         "abugidaPosition": 23,
         "frequency": 0.0219,
-        "letter": "ท",
+        "character": "ท",
         "name": "ทหาร",
         "type": "aspirated",
         "class": "low",
@@ -173,13 +179,13 @@
     "ธ": {
         "abugidaPosition": 24,
         "frequency": 0.00349,
-        "letter": "ธ",
+        "character": "ธ",
         "name": "ธง"
     },
     "น": {
         "abugidaPosition": 25,
         "frequency": 0.0565,
-        "letter": "น",
+        "character": "น",
         "name": "หนู",
         "type": "sonorant",
         "class": "low",
@@ -194,7 +200,7 @@
     "บ": {
         "abugidaPosition": 26,
         "frequency": 0.0167,
-        "letter": "บ",
+        "character": "บ",
         "name": "ใบไม้",
         "type": "unaspirated voiced",
         "class": "mid",
@@ -206,7 +212,7 @@
     "ป": {
         "abugidaPosition": 27,
         "frequency": 0.0179,
-        "letter": "ป",
+        "character": "ป",
         "name": "ปลา",
         "type": "unaspirated unvoiced",
         "class": "mid",
@@ -218,37 +224,37 @@
     "ผ": {
         "abugidaPosition": 28,
         "frequency": 0.00301,
-        "letter": "ผ",
+        "character": "ผ",
         "name": "ผึ้ง"
     },
     "ฝ": {
         "abugidaPosition": 29,
-        "frequency": 0.00301,
-        "letter": "ผ",
-        "name": "ผึ้ง"
+        "frequency": 0.000685,
+        "letter": "ฝ",
+        "name": "ฝา"
     },
     "พ": {
         "abugidaPosition": 30,
         "frequency": 0.0132,
-        "letter": "พ",
+        "character": "พ",
         "name": "พาน"
     },
     "ฟ": {
         "abugidaPosition": 31,
         "frequency": 0.00191,
-        "letter": "ฟ",
+        "character": "ฟ",
         "name": "ฟัน"
     },
     "ภ": {
         "abugidaPosition": 32,
         "frequency": 0.00329,
-        "letter": "ภ",
+        "character": "ภ",
         "name": "สำเภา"
     },
     "ม": {
         "abugidaPosition": 33,
         "frequency": 0.032,
-        "letter": "ม",
+        "character": "ม",
         "name": "ม้า",
         "type": "sonorant",
         "class": "low",
@@ -263,7 +269,7 @@
     "ย": {
         "abugidaPosition": 34,
         "frequency": 0.0259,
-        "letter": "ย",
+        "character": "ย",
         "name": "ยักษ์",
         "type": "sonorant",
         "class": "low",
@@ -278,7 +284,7 @@
     "ร": {
         "abugidaPosition": 35,
         "frequency": 0.0517,
-        "letter": "ร",
+        "character": "ร",
         "name": "เรือ",
         "type": "sonorant",
         "class": "low",
@@ -293,7 +299,7 @@
     "ล": {
         "abugidaPosition": 36,
         "frequency": 0.025,
-        "letter": "ล",
+        "character": "ล",
         "name": "ลิง",
         "type": "sonorant",
         "class": "low",
@@ -308,7 +314,7 @@
     "ว": {
         "abugidaPosition": 37,
         "frequency": 0.024,
-        "letter": "ว",
+        "character": "ว",
         "name": "แหวน",
         "type": "sonorant",
         "class": "low",
@@ -323,19 +329,19 @@
     "ศ": {
         "abugidaPosition": 38,
         "frequency": 0.00697,
-        "letter": "ศ",
+        "character": "ศ",
         "name": "ศาลา"
     },
     "ษ": {
         "abugidaPosition": 39,
         "frequency": 0.00335,
-        "letter": "ษ",
+        "character": "ษ",
         "name": "ฤๅษี"
     },
     "ส": {
         "abugidaPosition": 40,
         "frequency": 0.0199,
-        "letter": "ส",
+        "character": "ส",
         "name": "เสือ",
         "type": "unvoiced",
         "class": "high",
@@ -347,7 +353,7 @@
     "ห": {
         "abugidaPosition": 41,
         "frequency": 0.0154,
-        "letter": "ห",
+        "character": "ห",
         "name": "หีบ",
         "type": "aspirated",
         "class": "high",
@@ -359,13 +365,13 @@
     "ฬ": {
         "abugidaPosition": 42,
         "frequency": 0.000217,
-        "letter": "ฬ",
+        "character": "ฬ",
         "name": "จุฬา"
     },
     "อ": {
         "abugidaPosition": 43,
         "frequency": 0.0402,
-        "letter": "อ",
+        "character": "อ",
         "name": "อ่าง",
         "type": "unaspirated",
         "class": "mid",
@@ -380,7 +386,7 @@
     "ฮ": {
         "abugidaPosition": 44,
         "frequency": 0.000855,
-        "letter": "ฮ",
+        "character": "ฮ",
         "name": "นกฮูก"
     }
 }
