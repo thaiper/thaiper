@@ -1,6 +1,7 @@
 <template>
     <div class="character-list">
-        <Character v-for="c in characters" :character="c" :key="c.id"/>
+        <!-- <div v-for="(c, i) in characters" :key="i">{{ c }}</div> -->
+        <Character v-for="c in characters" :character="c" :key="c.abugidaPosition"/>
     </div>
 </template>
 

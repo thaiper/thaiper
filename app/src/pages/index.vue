@@ -1,5 +1,9 @@
 <template>
-  <div class="page page-index">Thaiper Index</div>
+  <div class="page page-index">
+    <nav>
+      <router-link to="/abugida">Thai Abugida</router-link>
+    </nav>
+  </div>
 </template>
 
 <script lang="ts">

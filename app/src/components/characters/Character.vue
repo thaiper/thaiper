@@ -1,8 +1,10 @@
 <template>
     <div class="character" :class="frequencyClass(character.frequency)">
-      <span class="char">{{ character.character }}</span>
+      <span class="char" @click="play">{{ character.character }}</span>
+      <span class="name" @click="play">{{ character.name }}</span>
       <span class="class">{{ character.class }}</span>
       <span class="frequency">{{ frequency_to_string }}</span>
+      <audio ref="audio" :src="`/audio-samples/abugida/${abugidaPosition}.mp3`"/>
     </div>
 </template>
 
@@ -16,6 +18,13 @@ export default defineComponent({
     computed: {
         frequency_to_string () {
             return `${Math.floor(this.character.frequency * 10000) / 100 }%`
+        },
+        abugidaPosition () {
+            return this.character.abugidaPosition == 4
+                    ? 3
+                    : this.character.abugidaPosition > 5
+                        ? this.character.abugidaPosition - 2
+                        : this.character.abugidaPosition
         }
     },
     methods: {
@@ -31,6 +40,9 @@ export default defineComponent({
                         : f > 0.001
                         ? 'rare'
                         : 'ultra-rare'
+        },
+        play () {
+            this.$refs.audio.play()
         }
     }
 })
@@ -45,6 +57,10 @@ export default defineComponent({
     font-size 2em
     .char
         display block
+        cursor pointer
+    .name
+        display block
+        cursor pointer
     .class
         display block
         text-align center
